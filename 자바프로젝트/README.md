@@ -11,6 +11,6 @@
 - 재고 분류 : Facade Pattern
 - 총 계산 : Decorator Pattern
 - 택배 확인 메세지 : Observer Pattern
-- 전체 기능 통합 : Factory Pattern
+- Main : Factory Pattern
 - 내부 기능 : Composite Pattern
 - 카드 충전 : Template Pattern
