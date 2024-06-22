@@ -11,8 +11,9 @@
 
 ### 2) 사용 알고리즘
 - K-NN
+- SVC
 - RandomForest
-
+  
 ### 3) 사용 언어 및 개발환경
 - Python
 - Jupyter Notebook
