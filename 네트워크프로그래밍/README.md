@@ -21,6 +21,7 @@
 
 
 3. 흐름도
+ <img width="620" alt="image" src="https://github.com/kye09/Projects/assets/136800080/77daa2d1-6f79-4cfd-9822-5bdf26281ac5">
 
 (1) 서버가 먼저 실행된다.  
 (2) 클라이언트가 입장하게 되면 클라이언트는 서버로 요청 메세지가 전송하며 [CONNECT] {유저이름}이 출력된다. 해당 유저는 서버의 user_list에 추가된다.  
